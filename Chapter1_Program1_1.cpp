@@ -1,6 +1,6 @@
 /*
-Title: Chapter 1 Assignment 3 - First C++ Program
-File Name : Chapter2Assign3_Brion_Blais
+Title: Chapter 1 Assignment 2 - First C++ Program
+File Name : Chapter2Assign2_Brion_Blais
 Programmer : Brion Blais
 Date : 08 / 2024
 Requirements : Install Microsoft Visual Studio following the walkthrough guide and screenshot the intial program and compile result to attach to Canvas. Attach both screenshots and submit the assignment.
